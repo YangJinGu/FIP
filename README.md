@@ -37,7 +37,7 @@
 
 - **메인**
 
-  <p align="center"><img src="images/메인페이지 상단배너2.png"/></p>
+  <p align="center"><img src="https://github.com/YangJinGu/FIP/blob/92acde80336d3c0fc3c720dfa533545d673d78d8/images/"></p>
 
 
 
