@@ -8,31 +8,27 @@
 
 # Description
 
-- 개발 기간: 2020.05.18 ~ 2020.06.17 (약 5주)
+- 개발 기간: 2023.02.27 ~ 2023.04.02 (약 4주)
 
-- 참여 인원: Backend 4명
+- 참여 인원: 6명
 
 - 사용 기술
 
-  - Spring 4.0,  Apache Tomcat 9.0,  Tiles3,  BootStrap,  Mybatis
-  - Java,  Ajax,  Jquery,  Git,  MVC Pttern
-  - Oracle 11g DataBase
+  - Spring,  Apache Tomcat 9.0,  BootStrap,  Mybatis
+  - Java,  Ajax,  Jquery, MVC Pttern
+  - Oracle DataBase
 
 - 담당 구현 파트
 
-  - 프로젝트 개발환경 구축, 설계 참여
+  - 프로젝트 개발환경 구축, 데이터베이스 설계
 
   - 메인 페이지 구현
 
-  - Header 메인 메뉴 디자인 및 구성(검색)
+  - Header 메인 메뉴 디자인 및 구성
 
-  - 상품 카테고리 페이지 구현(상품리스트, 페이징, 검색)
+  - 로그인 회원가입 구현 (이메일 API를 이용한 이메일인증)
 
-  - 상품 상세페이지 구현 (수량에 따른 가격증가, 좋아요, 장바구니, 
-
-    구매하기, 리뷰, 상품문의)
-
-  - GitHub 레포지토리 전체 관리
+  - 회원의 마이페이지 구현 
 
   - 팀원들의 Git Conflict 해결
 
