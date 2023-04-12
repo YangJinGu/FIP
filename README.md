@@ -37,7 +37,7 @@
 
 - **메인**
 
-  <p align="center"><img src="https://github.com/77kkyu/Style_Is_You/blob/master/src/main/webapp/file/stu_main.gif?raw=true"/></p>
+  <p align="center"><img src="images/메인페이지 상단배너2.png"/></p>
 
 
 
