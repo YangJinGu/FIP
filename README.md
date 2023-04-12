@@ -38,6 +38,8 @@
 - **메인**
 
   <p align="center"><img src="https://user-images.githubusercontent.com/126395526/231381226-ec48a4ee-41e4-4f60-8290-8b0191713236.png"></p>
+  
+  <p align="center"><img src="https://user-images.githubusercontent.com/126395526/231381996-c75d2498-5320-49c4-8d20-45f8639f96f2.png"></p>
 
 
 
