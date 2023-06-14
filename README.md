@@ -48,7 +48,7 @@
 - **주문 결제** 
 
 
-  <p align="center">![주문결제페이지1](https://github.com/YangJinGu/FIP/assets/126395526/25405ecf-56f3-4556-bc51-703ecd538c34)</p>
+  <p align="center"><img src="https://github.com/YangJinGu/FIP/assets/126395526/25405ecf-56f3-4556-bc51-703ecd538c34.png"</p>
 
 
 
