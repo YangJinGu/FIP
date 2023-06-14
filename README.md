@@ -45,10 +45,10 @@
 
 
 
-- **상품 카테고리** 
+- **주문 결제** 
 
 
-  <p align="center"><img src="https://github.com/77kkyu/Style_Is_You/blob/master/src/main/webapp/file/stu_cate.gif?raw=true"/></p>
+  <p align="center">![주문결제페이지1](https://github.com/YangJinGu/FIP/assets/126395526/25405ecf-56f3-4556-bc51-703ecd538c34)</p>
 
 
 
