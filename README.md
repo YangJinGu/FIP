@@ -57,8 +57,8 @@
 - **카카오 페이**
 
   <p align="center"><img src="https://github.com/YangJinGu/FIP/assets/126395526/99c0f664-38d7-4e86-a49b-b61f1e300351"/></p>
-  <p align="center"><img src="https://github.com/77kkyu/Style_Is_You/blob/master/src/main/webapp/file/stu_detail.gif?raw=true"/></p>
-  <p align="center"><img src="https://github.com/77kkyu/Style_Is_You/blob/master/src/main/webapp/file/stu_detail.gif?raw=true"/></p>
+  <p align="center"><img src="https://github.com/YangJinGu/FIP/assets/126395526/b894df10-d27e-4b30-bb36-784e766110e4"/></p>
+  <p align="center"><img src="https://github.com/YangJinGu/FIP/assets/126395526/631c0996-6058-4c12-89c5-0689d58d436e"/></p>
 
 
 
