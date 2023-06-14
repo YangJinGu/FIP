@@ -68,21 +68,19 @@
 
 - #### 메인화면
 
-  <p align="center"><img src="https://github.com/77kkyu/Style_Is_You/blob/master/src/main/webapp/file/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.png?raw=true"/></p>
+  <p align="center"><img src="https://github.com/YangJinGu/FIP/assets/126395526/ae7e1103-ddbd-4ee4-a7a3-5277685a52f4"/></p>
 
-  - **메뉴설정, 상품전체 검색 기능**
+  - **메뉴설정**
 
-    1. Tiles를 이용하여 메인메뉴 전체를 설정.
+    1. 상단 네비게이션에 서비스 페이지의 메뉴버튼을 구성.
 
-    2. 검색 시 키워드 또는 상품의 제목을 비교하여 데이터를 가져오고
+    2. 배너를 통해 남성이나 여성, 행사상품 페이지로 바로 이동.
 
-       JsonView를 설정해 Json형태로 데이터를 가져와 Ajax통신으로
+  <p align="center"><img src="https://github.com/YangJinGu/FIP/assets/126395526/a050b042-fdb3-4ed8-a202-ffb1a60abc23"/></p>
+  
+  - **슬라이드, 상품,리뷰 리스트**
 
-       검색한 목록들을 페이징 처리와 출력.
-
-  - **슬라이드, 상품리스트**
-
-    1. bxSlider를 이용하여 이미지 슬라이더 구성.
+    1. Slider를 이용하여 이미지 슬라이더 구성.
 
     2. JsonView를 설정해 데이터를 Json형태로 가져와 Ajax 통신으로
 
