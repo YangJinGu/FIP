@@ -48,14 +48,16 @@
 - **주문 결제** 
 
 
-  <p align="center"><img src="https://github.com/YangJinGu/FIP/assets/126395526/25405ecf-56f3-4556-bc51-703ecd538c34.png"</p>
-  <p align="center"><img src="https://github.com/YangJinGu/FIP/assets/126395526/0d76ece9-d851-44d2-8b43-3c29999e64d0.png"</p>
+  <p align="center"><img src="https://github.com/YangJinGu/FIP/assets/126395526/25405ecf-56f3-4556-bc51-703ecd538c34.png"/></p>
+  <p align="center"><img src="https://github.com/YangJinGu/FIP/assets/126395526/0d76ece9-d851-44d2-8b43-3c29999e64d0.png"/></p>
 
 
 
 
-- **상품 상세**
+- **카카오 페이**
 
+  <p align="center"><img src="https://github.com/YangJinGu/FIP/assets/126395526/99c0f664-38d7-4e86-a49b-b61f1e300351"/></p>
+  <p align="center"><img src="https://github.com/77kkyu/Style_Is_You/blob/master/src/main/webapp/file/stu_detail.gif?raw=true"/></p>
   <p align="center"><img src="https://github.com/77kkyu/Style_Is_You/blob/master/src/main/webapp/file/stu_detail.gif?raw=true"/></p>
 
 
