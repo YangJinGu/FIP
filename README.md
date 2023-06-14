@@ -54,16 +54,6 @@
 
 
 
-- **카카오 페이**
-
-  <p align="center"><img src="https://github.com/YangJinGu/FIP/assets/126395526/99c0f664-38d7-4e86-a49b-b61f1e300351"/></p>
-  <p align="center"><img src="https://github.com/YangJinGu/FIP/assets/126395526/b894df10-d27e-4b30-bb36-784e766110e4"/></p>
-  <p align="center"><img src="https://github.com/YangJinGu/FIP/assets/126395526/631c0996-6058-4c12-89c5-0689d58d436e"/></p>
-
-
-
-
-
 # Implementation
 
 - #### 메인화면
@@ -92,16 +82,18 @@
 
 
 
-- #### 상품 카테고리
-
-  <img src="https://github.com/77kkyu/Style_Is_You/blob/master/src/main/webapp/file/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%ED%99%94%EB%A9%B4.png?raw=true" width="370" /><img src="https://github.com/77kkyu/Style_Is_You/blob/master/src/main/webapp/file/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%ED%99%94%EB%A9%B42.png?raw=true" width="370"/>
-
-  <img src="https://github.com/77kkyu/Style_Is_You/blob/master/src/main/webapp/file/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%ED%99%94%EB%A9%B41.png?raw=true" width="370" />
+- #### 주문/결제 화면
+  <p align="center"><img src="https://github.com/YangJinGu/FIP/assets/126395526/25405ecf-56f3-4556-bc51-703ecd538c34.png"/></p>
+  <p align="center"><img src="https://github.com/YangJinGu/FIP/assets/126395526/0d76ece9-d851-44d2-8b43-3c29999e64d0.png"/></p>
+  
+  <p align="center"><img src="https://github.com/YangJinGu/FIP/assets/126395526/99c0f664-38d7-4e86-a49b-b61f1e300351"/></p>
+  <p align="center"><img src="https://github.com/YangJinGu/FIP/assets/126395526/b894df10-d27e-4b30-bb36-784e766110e4"/></p>
+  <p align="center"><img src="https://github.com/YangJinGu/FIP/assets/126395526/631c0996-6058-4c12-89c5-0689d58d436e"/></p>
 
   
 
-  - **카테고리별 검색, 리스트, 순서, 페이징** 
-    1. Mybatis 동적 쿼리문을 이용하여 하나의 쿼리문으로 카테고리별 검색, 리스트, 순서, 페이징을 한 번에 처리를 하고 JsonView를 설정하여 Json형태로   데이터를 가져와 Ajax 통신으로 상품 리스트를 구성합니다
+  - **** 
+    1. 
 
  
 
