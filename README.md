@@ -80,7 +80,29 @@
 
 ------
 
+- #### 회원가입 화면
 
+  <p align="center"><img src="https://github.com/YangJinGu/FIP/assets/126395526/770ede1b-2cb9-49c3-8e5a-3a5a641fd4d5"/></p>
+
+  - **메뉴설정**
+
+    1. 상단 네비게이션에 서비스 페이지의 메뉴버튼을 구성.
+
+    2. 배너를 통해 남성이나 여성, 행사상품 페이지로 바로 이동.
+
+  <p align="center"><img src="https://github.com/YangJinGu/FIP/assets/126395526/a050b042-fdb3-4ed8-a202-ffb1a60abc23"/></p>
+  
+  - **슬라이드, 상품,리뷰 리스트**
+
+    1. Slider를 이용하여 이미지 슬라이더 구성.
+
+    2. JsonView를 설정해 데이터를 Json형태로 가져와 Ajax 통신으로
+
+       메인 상품 리스트 구성.
+
+
+
+------
 
 - #### 주문/결제 화면
   <p align="center"><img src="https://github.com/YangJinGu/FIP/assets/126395526/25405ecf-56f3-4556-bc51-703ecd538c34.png"/></p>
